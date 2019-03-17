@@ -8,7 +8,7 @@ El programador está diseñado para usarse con un programador TL866II plus.
 La lista de componentes es la siguiente:
 
 
-Programador
+# Programador
 
 2 Zocalos de 42 pines
 
@@ -19,7 +19,7 @@ Programador
 2 resistencias de 10K 0402 SMD
 
 
-Reubicador
+# Reubicador
 
 2 Zocalos de 64 pines
 
@@ -34,7 +34,7 @@ Reubicador
 1 EPROM 27c160
 
 
-Conmutador
+# Conmutador
 
 1 Conmutador giratorio de 3 polos x 4 giros
 
@@ -63,7 +63,7 @@ Schematics and gerbers for all boards are included.
 The programmer board is designed to use with the TL866II plus programmer.
 The BOM is the following:
 
-Programmer
+# Programmer
 
 2 42 pines IC Socket
 
@@ -74,7 +74,7 @@ Programmer
 2 0402 10K SMD resistor
 
 
-Relocator
+# Relocator
 
 2 64 pin IC Socket
 
@@ -89,7 +89,7 @@ Relocator
 1 EPROM 27c160
 
 
-Conmutador
+# Conmutador
 
 1 Rotary switch 3P4T
 
