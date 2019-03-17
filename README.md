@@ -20,13 +20,15 @@ La lista de componentes es la siguiente:
 
 # Reubicador
 
-2 Zocalos de 64 pines
+| Cantidad      | Descripcion             | Formato                        |
+| ------------- | ----------------------- | ------------------------------ |   
+|      2        |  Zocalo de 64 pines     |  DIP 64                        |
+|      1        |  Zocalo de 42 pines     |  DIP 42                        |
+|      1        |  pin angulo recto 90º   |                                |
+|      2        |  tiras de 64 pines      |  2.54mm macho                  |
+|      1        |  Conector 4 pin         |  2.54mm                        |
+|      1        |  EPROM 27c160           |  DIP 42                        |
 
-1 Zocalo de 42 pines
-
-1 pin angulo recto 90º
-
-2 tiras de 64 pines 2.54mm macho
 
 1 conector de 4 pines 2.54mm de paso
 
