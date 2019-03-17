@@ -22,17 +22,12 @@ La lista de componentes es la siguiente:
 
 | Cantidad      | Descripcion             | Formato                        |
 | ------------- | ----------------------- | ------------------------------ |   
-|      2        |  Zocalo de 64 pines     |  DIP 64                        |
-|      1        |  Zocalo de 42 pines     |  DIP 42                        |
-|      1        |  pin angulo recto 90º   |                                |
-|      2        |  tiras de 64 pines      |  2.54mm macho                  |
+|      2        |  Zocalo de 64 pin       |  DIP 64                        |
+|      1        |  Zocalo de 42 pin       |  DIP 42                        |
+|      1        |  Pin angulo recto 90º   |                                |
+|      2        |  Tira de 64 pin         |  2.54mm macho                  |
 |      1        |  Conector 4 pin         |  2.54mm                        |
 |      1        |  EPROM 27c160           |  DIP 42                        |
-
-
-1 conector de 4 pines 2.54mm de paso
-
-1 EPROM 27c160
 
 
 # Conmutador
