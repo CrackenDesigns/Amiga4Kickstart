@@ -41,6 +41,8 @@ La lista de componentes es la siguiente:
 
 La configuración de puentes para programar la EPROM es la siguiente (a modo de ejemplo):
 
+
+| Cantidad      | Descripcion     | Formato         |
 | ------------- | --------------- | --------------- |   
 |    A18 = 0    |     A19 = 0     | KICKSTART (1.3) |
 |    A18 = 1    |     A19 = 0     | KICKSTART (2.05)|
