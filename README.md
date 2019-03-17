@@ -61,13 +61,11 @@ The BOM is the following:
 
 # Programmer
 
-2 42 pines IC Socket
-
-2 2.54mm pitch 3 pin strip male
-
-2 jumpers
-
-2 0402 10K SMD resistor
+| Quantity      | Description             | Package                        |
+| ------------- | ----------------------- | ------------------------------ |   
+|     2         |  42 pin IC Socket       |  DIP 42                        |
+|     2         |  Jumpers                |                                |
+|     2         |  10K Resistor           |  0402 SMD                      |
 
 
 # Relocator
