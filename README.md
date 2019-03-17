@@ -10,7 +10,9 @@ La lista de componentes es la siguiente:
 
 # Programador
 
-| 2 |  Zocalo de 42 pines |
+| Part          | Value                   | Package                        |
+| ------------- | ----------------------- | ------------------------------ |   
+| 2             |  Zocalo de 42 pines     |                                |
 
 | 2 | Tira de 3 pines 2.54mm de paso|
 
