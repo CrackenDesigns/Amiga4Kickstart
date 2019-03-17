@@ -10,7 +10,6 @@ La lista de componentes es la siguiente:
 Programador
 
 2 Zocalos de 42 pines
-
 2 tiras de 3 pines 2.54mm de paso
 
 2 jumpers
