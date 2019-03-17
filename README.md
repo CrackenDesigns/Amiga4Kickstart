@@ -55,6 +55,8 @@ A18 = 1 : A19 = 1 ------ ROMDIAG u otra
 
 
 
+
+
 This project is intended to add an Amiga 1000 a CPU relocator with an EPROM 27c160(2M) to include up to 4 different kickstart
 adding an external board with a rotary switch that selects the appropiate kickstart to load.
 Schematics and gerbers for all boards are included.
