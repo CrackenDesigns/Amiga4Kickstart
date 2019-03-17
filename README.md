@@ -70,36 +70,33 @@ The BOM is the following:
 
 # Relocator
 
-2 64 pin IC Socket
-
-1 42 pin IC Socket
-
-1 2.54mm 1 pin 90º angle
-
-2 64 pin 2.54mm pitch strip male
-
-1 4 pin 2.54mm pitch connector
-
-1 EPROM 27c160
+| Quantity      | Description             | Package                        |
+| ------------- | ----------------------- | ------------------------------ |   
+|      2        |  64 pin socket          |  DIP 64                        |
+|      1        |  42 pin socket          |  DIP 42                        |
+|      1        |  90º pin single         |                                |
+|      2        |  64 pin strip           |  2.54mm macho                  |
+|      1        |  4 pin connector        |  2.54mm                        |
+|      1        |  EPROM 27c160           |  DIP 42                        | 
 
 
 # Conmutador
 
-1 Rotary switch 3P4T
+| Cantidad      | Descripcion               | Formato                        |
+| ------------- | ------------------------- | ------------------------------ |   
+|      1        |  Rotary switch 3P4T       | DIP                            |
+|      2        |  10K Resistor             | 1206 SMD                       |
+|      1        |  4 pin connector          | 2.54mm JST or similar          |
 
-2 10K SMD Resistor 1206
-
-1 4 pin 2.54mm pitch connector
 
 
 The jumper configuration for the programmer board is the following (as an example):
 
-A18 = 0 : A19 = 0 ------ 1ST KICKSTART (1.3)
-
-A18 = 1 : A19 = 0 ------ 2ND KICKSTART (2.05)
-
-A18 = 0 : A19 = 1 ------ 3RD KICKSTART (3.1)
-
-A18 = 1 : A19 = 1 ------ ROMDIAG or other
+|               |                 |                 |
+| ------------- | --------------- | --------------- |   
+|    A18 = 0    |     A19 = 0     | KICKSTART (1.3) |
+|    A18 = 1    |     A19 = 0     | KICKSTART (2.05)|
+|    A18 = 0    |     A19 = 1     | KICKSTART (3.1) |
+|    A18 = 1    |     A19 = 1     | ROMDIAG / OTHER |
 
 
