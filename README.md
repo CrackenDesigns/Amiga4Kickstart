@@ -10,15 +10,12 @@ La lista de componentes es la siguiente:
 
 # Programador
 
-| Part          | Value                   | Package                        |
+| Cantidad      | Descripcion             | Formato                        |
 | ------------- | ----------------------- | ------------------------------ |   
-| 2             |  Zocalo de 42 pines     |                                |
-
-| 2 | Tira de 3 pines 2.54mm de paso|
-
-2 jumpers
-
-2 resistencias de 10K 0402 SMD
+|      2        |  Zocalo de 42 pines     |                                |
+|      2        |  Tira de 3 pines        |  2.54mm de paso                |
+|      2        |  jumpers                |                                |
+|      2        |  resistencias de 10K    |  0402 SMD                      |
 
 
 # Reubicador
