@@ -32,11 +32,11 @@ La lista de componentes es la siguiente:
 
 # Conmutador
 
-1 Conmutador giratorio de 3 polos x 4 giros
-
-2 resistencias de 10K 1206 SMD
-
-1 conector de 4 pines 2.54mm de paso
+| Cantidad      | Descripcion               | Formato                        |
+| ------------- | ------------------------- | ------------------------------ |   
+|      1        |  Conmutador giratorio 3P4T| DIP                            |
+|      2        |  Resistencia 10K          | 1206 SMD                       |
+|      1        |  Conector 4 pin           | 2.54mm JST o similar           |
 
 
 La configuración de puentes para programar la EPROM es la siguiente (a modo de ejemplo):
